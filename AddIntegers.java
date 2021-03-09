@@ -7,7 +7,6 @@ public class AddIntegers {
 
       System.out.println("Enter two numbers: " + first + " " + second);
       int sum = first + second;
-      return sum;
 
         System.out.println("The sum is: " + sum);
     }
