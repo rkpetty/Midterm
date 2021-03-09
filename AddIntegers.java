@@ -9,7 +9,7 @@ public class AddIntegers {
 
     public int AddInteger(){
       int first = 20;
-      int second = 30;
+      int second = 15;
 
       System.out.println("Enter two numbers: " + first + " " + second);
       int sum = first + second;
